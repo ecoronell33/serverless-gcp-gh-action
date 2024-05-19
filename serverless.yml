@@ -5,7 +5,7 @@ provider:
   stage: dev
   runtime: python39
   region: us-central1
-  project: credible-bridge-421520
+  project: milab-utp
   credentials: gcloud/secrets.json
  
 frameworkVersion: '3'
