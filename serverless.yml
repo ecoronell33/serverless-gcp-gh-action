@@ -1,4 +1,4 @@
-service: serverless-calculate-bmi-ecoronel2
+service: serverless-calculate-bmi-ecoronel45
 
 provider:
   name: google
